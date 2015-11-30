@@ -18,7 +18,7 @@ see [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).)
 
 ### How to download
 Open up your terminal or command prompt and enter the following command to download
-* $ git git@github.com:AungThiha/tournament-result.git
+* $ git clone git@github.com:AungThiha/tournament-result.git
 
 ### How To Create/Import tournament Database
 Make sure the current directly is where all the codes downloaded under.<br>
